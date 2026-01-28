@@ -1,14 +1,14 @@
 # STS CAT-1
 ## Syllabus
 - [x] Loop detection
-- [ x Sort Bitonic DLL
+- [x] Sort Bitonic DLL
 - [x] Segregate odd and even nodes in LL
 - [ ] Merge sort for DLL
-- [ ] Minimum Stack
-- [ ] Celebrity Problem 
+- [x] Minimum Stack
+- [x] Celebrity Problem 
 - [ ] interative hanoi
-- [ ] stock span
+- [x] stock span
 - [ ] dll priority queue
 - [x] sort without extra space
-- [ ] max sliding window
+- [x] max sliding window
 - [ ] stack permutations
