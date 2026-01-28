@@ -1,7 +1,7 @@
 # STS CAT-1
 ## Syllabus
 - [x] Loop detection
-- [ ] Sort Bitonic DLL
+- [ x Sort Bitonic DLL
 - [x] Segregate odd and even nodes in LL
 - [ ] Merge sort for DLL
 - [ ] Minimum Stack
