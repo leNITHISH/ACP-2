@@ -9,6 +9,6 @@
 - [ ] interative hanoi
 - [ ] stock span
 - [ ] dll priority queue
-- [ ] sort without extra space
+- [x] sort without extra space
 - [ ] max sliding window
 - [ ] stack permutations
