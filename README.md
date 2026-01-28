@@ -1,8 +1,8 @@
 # STS CAT-1
 ## Syllabus
-- [ ] Loop detection
+- [x] Loop detection
 - [ ] Sort Bitonic DLL
-- [ ] Segregate odd and even nodes in LL
+- [x] Segregate odd and even nodes in LL
 - [ ] Merge sort for DLL
 - [ ] Minimum Stack
 - [ ] Celebrity Problem 
